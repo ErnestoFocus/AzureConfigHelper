@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8mL8zi93rjjInc8JV59YHv7GL2Oqet1uS5gM/kz7p3Y7NMGQLewrYTbbuSYPe+fRTqcP156F9qVUaYk3YrnADg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ernes\\source\\repos\\AzureConfigHelper\\AzureConfigHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ernes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ernes\\.nuget\\packages\\textcopy\\6.1.0\\textcopy.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
